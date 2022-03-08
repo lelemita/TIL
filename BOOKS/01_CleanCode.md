@@ -264,7 +264,8 @@
 - 표준 자바 관례... 표준 고랭 관례도 궁금하다.
 
 ### 오늘 읽은 다른사람의 TIL
-- 
+- [Young님의 9장 TIL](ttps://whyjun.github.io/books/Read-Clean-Code-in-Go-08)
+  - 첫번째 소감 대공감ㅠㅠ
 
 <br/>
 <hr/>
